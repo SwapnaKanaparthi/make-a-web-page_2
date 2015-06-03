@@ -1,0 +1,80 @@
+/* This is a CSS comment */
+
+body {
+	background-color: #ffe4c4;
+	padding: 10px;
+	font-family: cursive;
+	max-width: 2000px;
+	margin: 0 auto; 
+	/* The 0 refers to the top and bottom margins 
+	and the "auto" automatically */
+	font-size: 1.09em;
+}
+
+header {
+	text-align: center;
+	color: black;
+	/* The 008080 refers to black color */
+
+	font-weight: bold;
+	font-size: 400%;
+	background-color: #c0c0c0;
+	border-radius: 10px;
+}
+
+h1 {
+	text-align: center;
+	color: #191970; 
+	/* The 008080 refers to midnight blue color */
+	font-weight: bold;
+	font-size: 200%;	
+	background-color: #ffd700;
+	border-radius: 15px;
+
+}
+
+
+
+h2 {
+	text-align: center;
+	color: #008080; 
+	/* The 008080 refers to teal color */
+	font-weight: bold;
+	font-size: 1.1em;	
+	background-color: #ffe4c4;
+	border-radius: 15px;
+}
+footer {
+	/*This gives you information of the author*/
+	text-align: center;
+	color: #191970;
+	background-color: #7fffd4;
+}
+
+span {
+	font-style: italic;
+}
+
+pre {
+	color: blue;
+}
+
+
+.chapter {
+	/* This is a class styling to have 
+	uniform	 styling to all chapters,
+	 hence avoiding repetition*/
+	background-color: #deb887;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+.example {
+	font-weight: bold;
+}
+
+
+
+
+
+
